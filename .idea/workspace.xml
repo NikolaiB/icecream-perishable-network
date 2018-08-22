@@ -98,7 +98,7 @@
       <find>Panama</find>
       <find>/LAT:40.6840N/LONG:74.0062W</find>
       <find>PORT_OF_NEW_YORK</find>
-      <find>destination port</find>
+      <find />
       <find>org.acme.shipping.perishable</find>
       <find>4000</find>
       <find>2500</find>
@@ -106,8 +106,8 @@
       <find>5000</find>
       <find>ShipmentInPortEvent</find>
       <find>perishable-network</find>
-      <find>Perishable Shipping Network</find>
-      <find>Perishable Network</find>
+      <find />
+      <find />
     </findStrings>
     <replaceStrings>
       <replace>ICE_CREAM</replace>
@@ -122,8 +122,8 @@
       <replace>2000</replace>
       <replace>ShipmentTerminalEvent</replace>
       <replace>icecream-perishable-network</replace>
-      <replace>Ice Cream Perishable Shipping Network</replace>
-      <replace>Ice Cream Perishable Network</replace>
+      <replace />
+      <replace />
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/features/support</dir>
@@ -159,8 +159,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="184" />
-    <option name="y" value="46" />
+    <option name="x" value="149" />
+    <option name="y" value="67" />
     <option name="width" value="1710" />
     <option name="height" value="900" />
   </component>
@@ -179,11 +179,6 @@
             <path>
               <item name="icecream-perishable-network" type="b2602c69:ProjectViewProjectNode" />
               <item name="icecream-perishable-network" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="icecream-perishable-network" type="b2602c69:ProjectViewProjectNode" />
-              <item name="icecream-perishable-network" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="icecream-perishable-network" type="b2602c69:ProjectViewProjectNode" />
@@ -278,7 +273,7 @@
       <workItem from="1534737505953" duration="4463000" />
       <workItem from="1534762154548" duration="1194000" />
       <workItem from="1534763508502" duration="319000" />
-      <workItem from="1534763901389" duration="8716000" />
+      <workItem from="1534763901389" duration="9014000" />
     </task>
     <task id="LOCAL-00001" summary="Initial version of the project.">
       <created>1534763200064</created>
@@ -291,10 +286,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30977000" />
+    <option name="totallyTimeSpent" value="31275000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="184" y="46" width="1710" height="900" extended-state="0" />
+    <frame x="112" y="783" width="1710" height="900" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
