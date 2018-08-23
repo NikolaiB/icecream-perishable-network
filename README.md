@@ -17,3 +17,23 @@ This business network defines:
 
 **Transactions**
 `TemperatureReading` `GpsReading` `ShipmentReceived` `SetupDemo`
+
+**Run the Ice Cream Perishable Network**
+
+Navigate to the directory where the `icecream-perishable-network` code lives
+
+Use nvm to install Node.js
+
+`nvm install --lts`
+
+Install Composer command-line interface (CLI)
+
+`npm install -g composer-cli`
+
+**Now the test project installed and it's time to build and test it.**
+
+Use the Node.js package manager (npm) to run a build, and then execute the unit tests I have provided. Execute these commands:
+
+`npm install && npm test`
+
+The first thing you see here are Mocha tests, indicating the tests were successful.
