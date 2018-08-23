@@ -28,7 +28,7 @@ let manufacturer_id = 'manufacturer@email.com';
 let retailer_id = 'retailer@email.com';
 let factory;
 
-describe('Ice Cream Perishable Shipping Network', () => {
+describe('Perishable Shipping Network', () => {
 
     let businessNetworkConnection;
 
