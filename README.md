@@ -7,6 +7,8 @@ temperate threshold have a penalty applied proportional to the magnitude of the 
 factor. Shipments that have breached the high temperate threshold have a penalty applied proportional 
 to the magnitude of the breach x a penalty factor.
 
+
+
 This business network defines:
 
 **Participants**
@@ -37,3 +39,6 @@ Use the Node.js package manager (npm) to run a build, and then execute the unit 
 `npm install && npm test`
 
 The first thing you see here are Mocha tests, indicating the tests were successful.
+
+**You can read the full description here:**
+https://medium.com/quality-is-everything/how-to-test-hyperledger-blockchain-business-model-unit-testing-and-bdd-cucumber-and-gherkin-5a7e16b561d 
